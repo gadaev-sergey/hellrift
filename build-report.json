@@ -1,0 +1,28 @@
+{
+  "project": "РАЗЛОМ · Последний рубеж",
+  "projectId": "hellrift-last-stand",
+  "version": "1.0.0",
+  "engineSDK": 1,
+  "base": "./",
+  "scenes": [
+    {
+      "id": "arena",
+      "name": "Собор пепла",
+      "path": "scenes/arena.scene.json"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hellrift",
+      "version": 1
+    }
+  ],
+  "assets": [],
+  "files": [
+    "assets/index-C3R7Zchl.js",
+    "assets/style-D_dRQo_Q.css",
+    "index.html"
+  ],
+  "builtAt": "2026-10-02T06:56:43.532Z",
+  "requirements": "WebGL2, ES2022, static HTTP server"
+}
